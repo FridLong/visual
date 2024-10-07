@@ -10,8 +10,8 @@ body {
 
 h1 {
     margin-top: 50px;
-    color: white;
-    font-size: 28px;
+    color: #FFFFFF;
+    font-size: 25px;
 }
 
 .heart-container {
@@ -116,6 +116,6 @@ h1 {
 
 .footer-text {
     margin-top: 20px;
-    color: white;
+    color: #FFFFFF;
     font-size: 24px;
 }
