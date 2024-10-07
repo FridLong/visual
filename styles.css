@@ -1,7 +1,7 @@
 
 body {
-    background-color: #abbcff ; /* Màu hồng nhạt */
-    font-family: Arial, sans-serif;
+    background-color: #c7505f ; /* Màu hồng nhạt */
+    font-family: Baloo Tammudu 2, sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -57,7 +57,7 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%) rotate(45deg);
     color: white;
-    font-size: 35px;
+    font-size: 24px;
     z-index: 2; /* Đảm bảo chữ ở phía trước */
 }
 
